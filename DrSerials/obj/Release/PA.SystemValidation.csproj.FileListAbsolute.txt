@@ -1,0 +1,5 @@
+D:\Works\Git\ProgramsSerial\DrSerials\bin\Release\PA.SystemValidation.dll
+D:\Works\Git\ProgramsSerial\DrSerials\bin\Release\PA.SystemValidation.pdb
+D:\Works\Git\ProgramsSerial\DrSerials\obj\Release\PA.SystemValidation.csproj.CoreCompileInputs.cache
+D:\Works\Git\ProgramsSerial\DrSerials\obj\Release\PA.SystemValidation.dll
+D:\Works\Git\ProgramsSerial\DrSerials\obj\Release\PA.SystemValidation.pdb

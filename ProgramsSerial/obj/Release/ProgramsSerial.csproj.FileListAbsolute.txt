@@ -1,0 +1,14 @@
+D:\Works\Git\ProgramsSerial\ProgramsSerial\bin\Release\ProgramsSerial.exe.config
+D:\Works\Git\ProgramsSerial\ProgramsSerial\bin\Release\ProgramsSerial.exe
+D:\Works\Git\ProgramsSerial\ProgramsSerial\bin\Release\ProgramsSerial.pdb
+D:\Works\Git\ProgramsSerial\ProgramsSerial\bin\Release\PA.SystemValidation.dll
+D:\Works\Git\ProgramsSerial\ProgramsSerial\bin\Release\PA.SystemValidation.pdb
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.csproj.AssemblyReference.cache
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.GetActivationCodeForm.resources
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.MainForm.resources
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.Properties.Resources.resources
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.csproj.GenerateResource.cache
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.csproj.CoreCompileInputs.cache
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.csproj.CopyComplete
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.exe
+D:\Works\Git\ProgramsSerial\ProgramsSerial\obj\Release\ProgramsSerial.pdb
